@@ -2,6 +2,8 @@
 
 This is a model repository for the Transformer models used in "On the Identification and Forecasting of Hate Speech in Inceldom", by Paolo Gajo, Arianna Muti, Katerina Korre, Silvia Bernardini and Alberto Barrón-Cedeño, to appear at RANLP 2023.
 
+Data: https://zenodo.org/record/8147845
+
 The weights of the models are downloadable through the Hugging Face links below.
 
 Best monolingual model:
