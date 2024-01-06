@@ -1,8 +1,8 @@
-# RANLP 2023 Models
+# On the Identification and Forecasting of Hate Speech in Inceldom
 
-This is a model repository for the Transformer models used in "On the Identification and Forecasting of Hate Speech in Inceldom", by Paolo Gajo, Arianna Muti, Katerina Korre, Silvia Bernardini and Alberto Barrón-Cedeño, to appear at RANLP 2023.
+This is a repository for the fine-tuning data and models used in "On the Identification and Forecasting of Hate Speech in Inceldom", by Paolo Gajo, Arianna Muti, Katerina Korre, Silvia Bernardini and Alberto Barrón-Cedeño, presented at RANLP 2023.
 
-Data: https://zenodo.org/record/8147845
+Forum scraped CSV files + fine-tuning data: https://zenodo.org/record/8147845
 
 The weights of the models are downloadable through the Hugging Face links below.
 
