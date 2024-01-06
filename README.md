@@ -1,6 +1,6 @@
 # On the Identification and Forecasting of Hate Speech in Inceldom
 
-This is a repository for the fine-tuning data and models used in "On the Identification and Forecasting of Hate Speech in Inceldom", by Paolo Gajo, Arianna Muti, Katerina Korre, Silvia Bernardini and Alberto Barrón-Cedeño, presented at RANLP 2023.
+This is a repository for the training code and data, and models used in "On the Identification and Forecasting of Hate Speech in Inceldom", by Paolo Gajo, Arianna Muti, Katerina Korre, Silvia Bernardini and Alberto Barrón-Cedeño, presented at RANLP 2023.
 
 Forum scraped CSV files + fine-tuning data: https://zenodo.org/record/8147845
 
